@@ -1,3 +1,3 @@
-/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.0.8/LICENSE */
+/*! @license DOMPurify 3.0.8 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.0.8/LICENSE */
 
-/*! creation: 2023-05-14T17:17:03.014Z revision: 0ee6034c94480a31c47e4fdc792ad0c245f5b438 name: @podlove/web-player version: 5.12.1 */
+/*! creation: 2024-01-24T20:25:13.416Z revision: de4259dc3290cfbd18db08400737ff485d4c1c7b name: @podlove/web-player version: 5.12.2 */

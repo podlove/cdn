@@ -1,0 +1,1 @@
+/*! creation: 2024-01-24T20:24:33.832Z revision: de4259dc3290cfbd18db08400737ff485d4c1c7b version: 5.12.2 name: @podlove/subscribe-button */
