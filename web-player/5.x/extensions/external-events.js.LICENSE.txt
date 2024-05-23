@@ -1,1 +1,1 @@
-/*! creation: 2024-01-24T20:25:13.416Z revision: de4259dc3290cfbd18db08400737ff485d4c1c7b name: @podlove/web-player version: 5.12.2 */
+/*! creation: 2024-05-23T14:32:34.845Z revision: e55448ced5a89f493765758599bb9a677463f024 name: @podlove/web-player version: 5.12.3 */
