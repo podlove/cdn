@@ -1,3 +1,3 @@
 /*! @license DOMPurify 3.0.8 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.0.8/LICENSE */
 
-/*! creation: 2024-05-23T14:32:34.845Z revision: e55448ced5a89f493765758599bb9a677463f024 name: @podlove/web-player version: 5.12.3 */
+/*! creation: 2024-05-23T14:34:59.783Z revision: de4259dc3290cfbd18db08400737ff485d4c1c7b name: @podlove/web-player version: 5.12.2 */
